@@ -1,5 +1,5 @@
 ## 1. Sea urchin
-external fertilization을 하기 때문에 발생 과정을 관찰하기 쉬워 [[Model Organism]]로서 많이 사용된다.
+external fertilization을 하기 때문에 발생 과정을 관찰하기 쉬워 [[Model Organism]]으로서 많이 사용된다.
 ### 1.1. Jelly coat
 난자의 jelly coat에서 방출된 resact가 sperm cell의 receptor guanilyl cyclase에 결합하여 GTP를 cGMP로 치환시키고 이는 calcium channel을 개방하여 세포 내의 $\mathrm{Ca^{2+}}$의 농도를 증가시켜 sperm이 resact의 농도가 높은 곳을 따라 움직이게 한다.
 ### 1.2. Acrosomal Reaction
@@ -30,5 +30,5 @@ free $\mathrm{Ca^{2+}}$에 결합하는 fluorescence dye를 fertilizing egg에 �
 **fertilization envelop을 형성할 때 사용되는 $\mathrm{Ca^{2+}}$는 어디서 유래하는가?**
 
 ![[Sea-urchin_CICR_during_Fertilization.png|400]]
-
-$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모른다.
+	A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다..
+	

@@ -16,7 +16,7 @@
 - [[분석 단계.md]]
 - [[t-distributed Stochastic Neighbor Embedding.md]]
 - [[Logistic Regression.md]]
-- [[Epsilon-Delta Argument.md]]
+- [[Epsilon-Delta Argument]]
 - [[Files/broken links output.md]]
 - [[Auto Differentiation.md]]
 - [[Markov Chain.md]]
