@@ -107,7 +107,7 @@
 - [[생명과학/Molecular Biology/Regulation of Gene Expression.md]]
 - [[생명과학/Molecular Biology/Gene Expression.md]]
 - [[생명과학/Molecular Biology/CRISPR-Cas9.md]]
-- [[Fertilization]]
+- [[Embryonic Development]]
 - [[생명과학/Cognitive Science/Cognitive Psychology/주의(attention).md]]
 - [[백준/못 푼 문제.md]]
 - [[백준/1708번 - 블록 껍질.md]]
