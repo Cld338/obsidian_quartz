@@ -33,7 +33,7 @@ free $\mathrm{Ca^{2+}}$에 결합하는 fluorescence dye를 fertilizing egg에 �
 **fertilization envelop을 형성할 때 사용되는 $\mathrm{Ca^{2+}}$는 어디서 유래하는가?**
 
 ![[Sea-urchin_CICR_during_Fertilization.png|400]]
-	A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다..
+A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다..
 #### 1.1.2 Mammal
 internel fertilization이 일어난다.
 배란 전후에 follicle cells에 둘러쌓여 있다.
@@ -49,6 +49,7 @@ cleavage 동안에는 $\mathrm{G_{1}}$, $\mathrm{G_{2}}$ phase 없이 S, M phase
 따라서 세포의 무게가 증가하지 않고 fertilized egg가 blasomere로 나뉜다.
 #### 1.2.1 Cleavage Pattern in Frogs
 Zygote는 anaimal hemisphere와 vegetal hemisphere로 나뉘며 각 hemisphere의 양단에 animal pole과 vegetal pole이 있다. Yolk는 zygote의 vegetal hemisphere에 치우쳐져 있어 색으로 구분 가능하며 cleavage division의 pattern에 영향을 끼친다. cytokinesis 과정에서 3개의 cleavage furrow가 생기며 1, 2번째 furrow는 양극을 잇는 선과 평행하다. 3번째 furrow 형성 과정에서는 yolk로 인해 centrosome 등이 animal pole 쪽에 위치하여 vegetal pole 쪽의 세포가 더 크다.
+
 ![[Xenopus_cleavage.png|400]]
 ## 2 Morphogenesis
 ### 2.1 Gastrulation
@@ -63,6 +64,7 @@ neurulation은 dorsal mesoderm이 embyo의 dorsal side를 따라 뻗어있는 no
 notochord와 다른 조직들에서 분비된 신호 분자들이 notochore 위의 ectoderm이 neural plate를 형성하도록 한다.
 
 ![[Xenopus_Neurulation.png|400]]
+
 neural plate는 neural tube가 되며 이는 central nervous system이 된다.
 notochord는 태어나기 전에 사라지지만 vetebrae 사이의 디스크 형성에 관여한다.
 neural crest는 척추동물의 neural tube를 따라 neural fold에서 형성되고 체내로 이동하여 배아의 다양한 부분을 형성한다 (신경, 치아의 일부, 두개골 등).
@@ -72,13 +74,16 @@ somite의 일부가 해리되어 mesenchyme cell 형성하며, 이는 척추뼈�
 동물에서 세포의 일부가 이동하는 것은 세포의 형태 변화나 새로운 위치로의 이동을 가능케 하며 microtubles와 microfilaments는 이러한 과정에서 필수적이다.
 
 neurulation 과정에서 notochord 위의 ectoderm 내에 있는 actin filaments가 수축하여 wedge shape을 형성한다.
+
 ![[Actin_filament_Neurulation.png|400]]
+
 cytoskeleton은 convergent extention과도 연관된다. conergent extension에서 세포들은 길고 얇은 형태로 변하고 서로의 틈에 끼어들어 더 긴 cell sheet를 형성한다.
+
 ![[Conergent_Extension.png|400]]
+
 cell adhesion molecule이라고 불리는 transmembrane glycoprotein은 세포 이동에서 중요한 역할을 한다.
 
 <font color="#ff0000">*Migration also involves the extracellular matrix (ECM), a meshwork of secreted glycoproteins and other molecules lying outside the plasma membrane of cells*</font>
-
 #### 2.3.1 Programed Cell Death(Apoptosis)
 발달 중 다양한 시점에서 단일 세포, 여러 세포 또는 전체 조직이 발달을 멈추고, 죽어서 인접한 세포에 흡수된다.
 발달 과정에서 필요 이상의 뉴런이 생산되며 여분의 뉴런은 이후 apoptosis에 의해 제거된다.
