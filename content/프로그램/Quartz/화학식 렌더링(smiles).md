@@ -6,7 +6,7 @@
 c1ccccc1
 ```
 
-**'chem.ts'**
+'chem.ts'
 ```Typescript
 import { QuartzTransformerPlugin } from "../types";
 import { Molecule } from 'openchemlib';
