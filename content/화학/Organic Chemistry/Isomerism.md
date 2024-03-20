@@ -3,14 +3,18 @@ tags: 작성중
 ---
 ## 1 Constitutional Isomerism
 **2-Methypentane**
+
 ```smiles
 CCCC(C)C
 ```
  **Hexane**
+
  ```smiles
 CCCCCC
 ```
+
 **Cyclohexane**
+
  ```smiles
 C1CCCCC1
 ```
@@ -19,9 +23,9 @@ C1CCCCC1
 ### 2.1 Enatiomer
 ### 2.2 Diastereomer
 
-### 2.2.1 Meso Compound
-#### 2.2.1 Geometrical Isomerism
-### 3 Confomational Isomer
+#### 2.2.1 Meso Compound
+#### 2.2.3 Geometrical Isomerism
+### 3 Conformational Isomer
 단일 결합에 대한 회전을 통해 다양한 구조를 취할 수 있다. 분자간 특성이 매우 유사해 분리가 힘들고 분리하더라도 다시 일정 비율을 유지한다.
 
 

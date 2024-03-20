@@ -33,10 +33,11 @@ free $\mathrm{Ca^{2+}}$에 결합하는 fluorescence dye를 fertilizing egg에 �
 **fertilization envelop을 형성할 때 사용되는 $\mathrm{Ca^{2+}}$는 어디서 유래하는가?**
 
 ![[Sea-urchin_CICR_during_Fertilization.png|400]]
+
 A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다..
 #### 1.1.2 Mammal
 internel fertilization이 일어난다.
-배란 전후에 follicle cells에 둘러쌓여 있다.
+배란 전후에 follicle cells에 둘러싸여 있다.
 sperm은 follicle cell을 지나 zona pellucida에 도달하여 acrosomal reaction이 일어난다.
 mammal에서는 fast block to polyspemy가 일어나지 않는다.
 first cell division까지 약 12~36시간이 소요된다.

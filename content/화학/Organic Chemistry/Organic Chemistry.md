@@ -9,6 +9,7 @@
 - methane에서는 탄소 원자의 $\mathrm{sp^{3}}$ hybrid orbital이 수소의 1s orbital과 겹치며 4개의 $\sigma$ 결합이 형성된다.
 	-> 회전 가능하다
 #### 1.1.2 Alkene
+
 ```smiles title="Alkene"
 C=C
 ```
@@ -18,17 +19,15 @@ $\pi$ orbital의 겹침으로 이루어진 이중 결합을 형성하고 있어 
 #### 1.1.3 Alkyne
 ### 1.2 Cyclic
 #### 1.2.1 Alkane
+Cycloalkane은 탄화수소 사슬의 두 탄소가 연결되어 닫힌 고리가 생긴 구조이다.
+alkane에서 2개의 수소를 제거하고 탄소간 결합을 형성하기 때문에 불포화도가 2이며 일반식은 $\mathrm{C_{n}H_{2n}}$이다.
+고리 구조를 형성하기 때문에 angle strain이 발생한다.
+
 #### 1.2.2 Alkene
 #### 1.2.3 Alkyne
 
 
 ## 2 Funtional Group
-
-
-
-
-
-
 
 
 
@@ -47,7 +46,6 @@ $$
 | 삼중결합 | 2        |
 | 고리형   | 1        |
 이를 통해 이성질체의 구조를 예측할 수 있다. 예를 들어, 아래와 같은 카페인 분자에서
-
 ```smiles
 Cn1cnc2N(C)C(=O)N(C)C(=O)c12
 ```
