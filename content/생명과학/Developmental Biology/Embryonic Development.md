@@ -107,6 +107,7 @@ P granules는 cytoplasmic determinants로 작용하여 초기 발생 단계에�
 #### 2.4.1 Organizer of Spemann and Mangold
 
 ![[dorsal_lip_transplant.png|400]]
+
 Speann과 Mangold는 초기 낭배의 조직을 이식하였고 이식된 포배의 dorsal lip이 host의 2차적인 낭배 형성을 일으켰다.
 이를 통해 dorsal lip이 배아의 발달 과정에서 notochord, neural tuble 등을 형성하는 neurulation을 유도하는 organizer임을 알 수 있다.
 albino 개체의 dorsal lip을 이식했을 때 이식된 dorsal lip 주변의 세포가 endoderm을 형성하는 것을 확인하였다.
