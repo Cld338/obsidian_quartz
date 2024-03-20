@@ -6,7 +6,6 @@
 c1ccccc1
 ```
 
-asdf
 **'chem.ts'**
 ```Typescript
 import { QuartzTransformerPlugin } from "../types";

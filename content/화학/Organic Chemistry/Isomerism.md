@@ -7,15 +7,16 @@ tags: 작성중
 ```smiles
 CCCC(C)C
 ```
+
  **Hexane**
 
- ```smiles
+```smiles
 CCCCCC
 ```
 
 **Cyclohexane**
 
- ```smiles
+```smiles
 C1CCCCC1
 ```
 
