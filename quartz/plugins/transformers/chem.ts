@@ -13,7 +13,7 @@ export const SmilesRenderer: QuartzTransformerPlugin = () => {
               if (node.lang === 'smiles') {
                 const smiles = node.value;
                 const molecule = Molecule.fromSmiles(smiles);
-                const svg = molecule.toSVG(200, 200);
+                const svg = molecule.toSVG(300, 150);
                 node.type = 'html';
                 node.value = `<div class="smiles-container">${svg}</div>`;
               }
