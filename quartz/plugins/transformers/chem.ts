@@ -8,7 +8,7 @@ export const SmilesRenderer: QuartzTransformerPlugin = () => {
     markdownPlugins() {
       return [
         () => {
-          return (tree) => {
+          return (tree, file) => {
             visit(tree, 'code', (node) => {
               if (node.lang === 'smiles') {
                 const smiles = node.value;
