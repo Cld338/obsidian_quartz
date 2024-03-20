@@ -85,8 +85,28 @@ cell adhesion molecule이라고 불리는 transmembrane glycoprotein은 세포 �
 
 <font color="#ff0000">*Migration also involves the extracellular matrix (ECM), a meshwork of secreted glycoproteins and other molecules lying outside the plasma membrane of cells*</font>
 #### 2.3.1 Programed Cell Death(Apoptosis)
-발달 중 다양한 시점에서 단일 세포, 여러 세포 또는 전체 조직이 발달을 멈추고, 죽어서 인접한 세포에 흡수된다.
-발달 과정에서 필요 이상의 뉴런이 생산되며 여분의 뉴런은 이후 apoptosis에 의해 제거된다.
-tadpole의 꼬리처럼 초기 단계에서 동작하다 metamorphosis에서 사라지는 경우도 있다.
-### F
+- 발달 중 다양한 시점에서 단일 세포, 여러 세포 또는 전체 조직이 발달을 멈추고, 죽어서 인접한 세포에 흡수된다.
+- 발달 과정에서 필요 이상의 뉴런이 생산되며 여분의 뉴런은 이후 apoptosis에 의해 제거된다.
+- tadpole의 꼬리처럼 초기 단계에서 동작하다 metamorphosis에서 사라지는 경우도 있다.
+### 2.4 Fate map
+determination은 단일 세포 또는 그룹이 특정 운명에 맡겨지는 것을 말한다.
+differencation은  구조와 기능이 특화되는 것을 말한다.
+다세포 유기체의 세포들은 같은 유전자를 공유하지만, 서로 다른 유전자 세트를 발현하여 differencation이 일어난다.
 
+![[c_elegance_P_granules.png|400]]
+
+생식 세포는 난자나 정자를 생성하는 특수한 세포이다.
+RNA와 DNA의 복합체는 생식 세포의 운명을 결정하는 데에 관여한다.
+C. elegans에서는, P granules라는 복합체가 발달 전체에서 지속되며 성충의 생식 세포에서 감지된다.
+P granules는 fertilized egg 전체에 분포하며, 첫 번째 난할이 일어나기 전에 posteror end로 이동한다.
+이후의 난할에서 P granules는 posterior-most cell로 분할된다.
+P granules는 cytoplasmic determinants로 작용하여 초기 발생 단계에서 생식 세포의 운명을 결정한다.
+
+![[c_elegance_P_granules_cleavage.png|400]]
+
+#### 2.4.1 Organizer of Spemann and Mangold
+
+![[dorsal_lip_transplant.png|400]]
+Speann과 Mangold는 초기 낭배의 조직을 이식하였고 이식된 포배의 dorsal lip이 host의 2차적인 낭배 형성을 일으켰다.
+이를 통해 dorsal lip이 배아의 발달 과정에서 notochord, neural tuble 등을 형성하는 neurulation을 유도하는 organizer임을 알 수 있다.
+albino 개체의 dorsal lip을 이식했을 때 이식된 dorsal lip 주변의 세포가 endoderm을 형성하는 것을 확인하였다.
