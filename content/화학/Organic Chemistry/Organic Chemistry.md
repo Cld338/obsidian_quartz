@@ -10,7 +10,7 @@
 	-> 회전 가능하다
 #### 1.1.2 Alkene
 
-```smiles title="Alkene"
+```smiles
 C=C
 ```
 $\pi$ orbital의 겹침으로 이루어진 이중 결합을 형성하고 있어 친핵성 반응이 일어나기 쉽다.
@@ -24,8 +24,6 @@ Cycloalkane은 탄화수소 사슬의 두 탄소가 연결되어 닫힌 고리�
 alkane에서 2개의 수소를 제거하고 탄소간 결합을 형성하기 때문에 불포화도가 2이며 일반식은 $\mathrm{C_{n}H_{2n}}$이다.
 cyclohexane은 boat와 chair 형으로 나뉘며 boat 형일 때에는 steric strain이 발생한다.
 
-```
-```
 
 #### 1.2.2 Alkene
 
