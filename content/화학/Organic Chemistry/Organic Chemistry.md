@@ -9,7 +9,7 @@
 - methane에서는 탄소 원자의 $\mathrm{sp^{3}}$ hybrid orbital이 수소의 1s orbital과 겹치며 4개의 $\sigma$ 결합이 형성된다.
 	-> 회전 가능하다
 #### 1.1.2 Alkene
-```smiles title="Alkene"
+```smiles
 C=C
 ```
 $\pi$ orbital의 겹침으로 이루어진 이중 결합을 형성하고 있어 친핵성 반응이 일어나기 쉽다.
@@ -33,9 +33,10 @@ cyclohexane은 boat와 chair 형으로 나뉘며 boat 형일 때에는 steric st
 ## 2 Funtional Group
 
 
+## 3 Organic Reaction
 
-## 3 Others
-### 3.1 Degree of Unsaturation
+## A Others
+### A.1 Degree of Unsaturation
 Index of hydrogen deffiency(IHD)라고도 불리며 탄화수소가 갖는 수소의 개수가 alkane에 비해 얼마나 적은 지를 나타낸다.
 수소의 수를 H, 질소의 수는 N, 할로젠의 수를 X라고 할 때 다음과 같이 표기할 수 있다. 질소의 경우 탄소 원자와 단일 결합 했을 때 2개의 결합을 형성할 수 있기 때문에 더해준다.
 $$
@@ -43,11 +44,12 @@ $$
 $$
 결합 종류에 따른 불포화도는 다음과 같다.
 
-| 결합     | 불포화도 |
-| -------- | -------- |
-| 이중결합 | 1        |
-| 삼중결합 | 2        |
-| 고리형   | 1        |
+| 결합   | 불포화도 |
+| ---- | ---- |
+| 이중결합 | 1    |
+| 삼중결합 | 2    |
+| 고리형  | 1    |
+
 이를 통해 이성질체의 구조를 예측할 수 있다. 예를 들어, 아래와 같은 카페인 분자에서
 ```smiles
 Cn1cnc2N(C)C(=O)N(C)C(=O)c12
