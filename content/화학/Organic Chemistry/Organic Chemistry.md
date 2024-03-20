@@ -9,7 +9,6 @@
 - methane에서는 탄소 원자의 $\mathrm{sp^{3}}$ hybrid orbital이 수소의 1s orbital과 겹치며 4개의 $\sigma$ 결합이 형성된다.
 	-> 회전 가능하다
 #### 1.1.2 Alkene
-
 ```smiles title="Alkene"
 C=C
 ```

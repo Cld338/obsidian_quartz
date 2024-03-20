@@ -3,23 +3,17 @@ tags: 작성중
 ---
 ## 1 Constitutional Isomerism
 **2-Methypentane**
-
 ```smiles
 CCCC(C)C
 ```
-
  **Hexane**
-
 ```smiles
 CCCCCC
 ```
-
 **Cyclohexane**
-
 ```smiles
 C1CCCCC1
 ```
-
 ## 2 Stereo Isomerism
 ### 2.1 Enatiomer
 ### 2.2 Diastereomer
