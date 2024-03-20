@@ -18,12 +18,17 @@ $\pi$ orbital의 겹침으로 이루어진 이중 결합을 형성하고 있어 
 
 #### 1.1.3 Alkyne
 ### 1.2 Cyclic
+고리 구조를 형성하기 때문에 angle strain이 발생한다.
 #### 1.2.1 Alkane
 Cycloalkane은 탄화수소 사슬의 두 탄소가 연결되어 닫힌 고리가 생긴 구조이다.
 alkane에서 2개의 수소를 제거하고 탄소간 결합을 형성하기 때문에 불포화도가 2이며 일반식은 $\mathrm{C_{n}H_{2n}}$이다.
-고리 구조를 형성하기 때문에 angle strain이 발생한다.
+cyclohexane은 boat와 chair 형으로 나뉘며 boat 형일 때에는 steric strain이 발생한다.
+
+```
+```
 
 #### 1.2.2 Alkene
+
 #### 1.2.3 Alkyne
 
 
