@@ -30,10 +30,48 @@ cyclohexane은 boat와 chair 형으로 나뉘며 boat 형일 때에는 steric st
 #### 1.2.3 Alkyne
 
 
-## 2 Funtional Group
+## 2 Radical
 
+### 2.1 Halide
+R-X 형태의 화합물이다. 할로젠 원소의 전기음성도가 매우 커서 할로젠기가 이탈되기 쉽고, 반응성이 크다.
+$$
+\mathrm{CH_{3}Cl}
+$$
+methyl chloride에서 chlore의 전기음성도가 크기 때문에 chlorine은 $\delta^{-}$, carbon은 $\delta^{+}$의 부분 전하를 띄며 친전자체이다.
+**methy chloride의 제법**
+$$
+\mathrm{CH_{4}+Cl_{2} \longrightarrow CH_{3}Cl+HCl}
+$$
+$$
+\begin{align}
+& \mathrm{CH_{4}+2Cl\cdot \longrightarrow \cdot CH_{3}+\cdot Cl+HCl}\tag{initiate} \\
+& \mathrm{\cdot CH_{3}+Cl_{2} \longrightarrow CH_{3}Cl + Cl \cdot} \tag{propagation}
+\end{align}
+$$
 
 ## 3 Organic Reaction
+
+### 3.1 SN
+친핵체가 친전자체 내의 작용기를 대체하는 반응
+
+> Markovnikov's Rule
+
+
+```smiles
+CC(C)=C.Cl>>C[C+](C)C
+```
+
+
+#### 3.1.1 SN1
+친핵성 일분자 치환 반응은 
+
+#### 3.1.2 SN2
+
+### 3.2 E
+
+#### 3.2.1 E1
+
+#### 3.2.2 E2
 
 ## A Others
 ### A.1 Degree of Unsaturation
@@ -56,3 +94,4 @@ Cn1cnc2N(C)C(=O)N(C)C(=O)c12
 ```
 불포화도는 $\frac{8 \times 2+2-10+4}{2}=6$이다.
 따라서 가능한 조합은 (이중 결합 6개), (이중 결합 5개, 고리형 1개), (이중 결합 4개, 고리형 2개), (이중 결합 4개, 삼중 결합 1개), ... 등이 있다.
+

@@ -34,9 +34,9 @@ free $\mathrm{Ca^{2+}}$에 결합하는 fluorescence dye를 fertilizing egg에 �
 
 ![[Sea-urchin_CICR_during_Fertilization.png|400]]
 
-A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다..
+A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg를 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다.
 #### 1.1.2 Mammal
-internel fertilization이 일어난다.
+internal fertilization이 일어난다.
 배란 전후에 follicle cells에 둘러싸여 있다.
 sperm은 follicle cell을 지나 zona pellucida에 도달하여 acrosomal reaction이 일어난다.
 mammal에서는 fast block to polyspemy가 일어나지 않는다.
@@ -57,7 +57,7 @@ Zygote는 anaimal hemisphere와 vegetal hemisphere로 나뉘며 각 hemisphere�
 #### 2.1.1 Frog
 sperm이 침입한 부분 반대 편의 dorsal side에서 dorsal lip이 형성되어 함입 및 세포 이동이 일어난다. frog의 anus는 blastopore로 부터 형성되며 archenteron의 반대쪽 끝이 뚫려 입이 된다.
 ### 2.2 Organogenesis
-germ layer의 다양한 구역들이 기본적인 장기가 된다.
+germ layer의 다양한 구역이 기본적인 장기가 된다.
 developmental fate에 따라 세포의 모양이나 위치가 결정된다.
 #### 2.2.1 Neurulation
 ##### 2.2.1.1 Frog

@@ -1,7 +1,6 @@
 ---
 tags: 작성중
 ---
-
 전체 데이터를 특정 직선에 projection하였을 때 같은 class 내의 데이터 사이의 거리를 가깝게 하는 벡터를 찾는다. 즉, 각 클래스의 covariance의 합이 최대한 작게, 각 class간의 거리는 최대한 크게 하는 벡터 W를 찾는다.
 $$
 \begin{gathered}

@@ -1,5 +1,6 @@
 https://github.com/Cld338/obsidian-iupac-to-smiles
 
+
 ```
 (RS)-1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine
 ```

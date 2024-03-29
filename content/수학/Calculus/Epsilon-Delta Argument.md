@@ -1,9 +1,8 @@
 $$
 \forall \epsilon>0,\exists \delta>0,0<|x-a|<\delta \Rightarrow |f(x)-L|<\epsilon
 $$
-모든 $\epsilon$에 대하여 어떤 $\delta$가 존재하여 $0<|x-a|<\delta \Rightarrow |f(x)-L|<\epsilon$을 만족시킬 수 있다 극한값 $\lim_{ x \to a }f(x)=L$이라고 할 수 있다.^[$\epsilon$이 아무리 작을지라도 이를 만족시키는 어떤 $\delta$를 항상 제시할 수 있다면, $\lim_{ x \to a } f(x)$는 $L$에 한없이 가까워진다.]
-
-
+모든 $\epsilon$에 대하여 어떤 $\delta$가 존재하여 $0<|x-a|<\delta \Rightarrow |f(x)-L|<\epsilon$을 만족시킬 수 있다 극한값 $\lim_{ x \to a }f(x)=L$이라고 할 수 있다.
+($\epsilon$이 아무리 작을지라도 이를 만족시키는 어떤 $\delta$를 항상 제시할 수 있다면, $\lim_{ x \to a } f(x)$는 $L$에 한없이 가까워진다.)
 ## 1 연산
 ### 1.1 덧셈
 $$
@@ -62,13 +61,23 @@ $$
 &\exists\delta_{4}>0\left( 0<|x-c|<\delta_{3} \implies |g(x)-M|< \frac{|M|(|M|-1)}{2(|L|+1)} \epsilon \right) \\
 &\operatorname{let}~\delta_{0}=\operatorname{min}(\delta_{1},\delta_{2},\delta_{3},\delta_{4}) \\
 &0<|x-c|<\delta_{0} \\
-&\implies \left| \frac{f(x)}{g(x)} - \frac{L}{M} \right|=\frac{|f(x)M-g(x)L|}{g(x)M}\leq \frac{|f(x)-L|}{|g(x)|}+\frac{|L||M-g(x)|}{|g(x)||M|}< \frac{|f(x)-L|}{|M|-1}+\frac{(|L|+1)|M-g(x)|}{(|M|-1)|M|}< \frac{\epsilon}{2}+\frac{\epsilon}{2}=\epsilon\\
+&\implies \left| \frac{f(x)}{g(x)} - \frac{L}{M} \right|=\frac{|f(x)M-g(x)L|}{g(x)M}\leq \frac{|f(x)-L|}{|g(x)|}+\frac{|L||M-g(x)|}{|g(x)||M|} \\
+&<\frac{|f(x)-L|}{|M|-1}+\frac{(|L|+1)|M-g(x)|}{(|M|-1)|M|}< \frac{\epsilon}{2}+\frac{\epsilon}{2}=\epsilon\\
 \end{align}
+$$
+### 1.4 거듭제곱
+$$
+\lim_{ x \to a} [f(x)]^{n}= \lim_{ x \to a} [f(x)^{n}]
+$$
+$$
+
 $$
 ## 2 연속
 $$
+\lim_{ x \to c^{+} } f(x)=L, \lim_{ x \to c^{-} } f(x)=L \Rightarrow \lim_{ x \to c }=L
+$$
+$$
 \begin{align}
-&\lim_{ x \to c^{+} } f(x)=L, \lim_{ x \to c^{-} } f(x)=L \Rightarrow \lim_{ x \to c }=L \\
 &\forall \epsilon>0 \\
 &\exists \delta_{1}>0 \left( c<x<c+\delta \implies |f(x)-L|< \frac{\epsilon}{2} \right)\quad(\because \lim_{ x \to c^{+} } =L) \\
 &\exists \delta_{2}>0 \left( c-\delta<x<c \implies |f(x)-L|< \frac{\epsilon}{2} \right)\quad(\because \lim_{ x \to c^{-} } =L) \\
@@ -76,10 +85,11 @@ $$
 \end{align}
 $$
 **극한은 하나의 값으로 수렴하는가?**
-
+$$
+\lim_{ x \to c } f(x)=L, \lim_{ x \to c } f(x)=m \Rightarrow l=M
+$$
 $$
 \begin{align}
-&\lim_{ x \to c } f(x)=L, \lim_{ x \to c } f(x)=m \Rightarrow l=M \\ \\
 &\text{suppose}~L\neq M \\
 &\text{let}~0<|L-M|<\epsilon \\
 &\forall \epsilon>0 \\
