@@ -30,11 +30,11 @@ $\mathrm{Ca^{2+}}$는 vesicle이 plasma membrane에 융합하는 것을 조절�
 free $\mathrm{Ca^{2+}}$에 결합하는 fluorescence dye를 fertilizing egg에 주입하여 관찰한다.
 1. cytosol에서 sperm이 들어온 지역으로부터 $\mathrm{[Ca^{2+}]_{cytoplasm}}$의 농도가 점차 높아진다.
 2. $\mathrm{Ca^{2+}}$의 농도가 증가하는 propagation이 일어난다.
-**fertilization envelop을 형성할 때 사용되는 $\mathrm{Ca^{2+}}$는 어디서 유래하는가?**
 
+**fertilization envelop을 형성할 때 사용되는 $\mathrm{Ca^{2+}}$는 어디서 유래하는가?**
 ![[Sea-urchin_CICR_during_Fertilization.png|400]]
 
-A23187을 활용한 실험^[$\mathrm{Ca^{2+}}$가 없는 바닷물에 A23187을 처리한 뒤 Sea urchin egg를 넣었을 때 ER에서 방출된 $\mathrm{Ca^{2+}}$에 의해 cortical granule이 egg의 plasma membrane과 결합하였다. 하지만 이는 A23187을 넣었기 때문에 ER의 $\mathrm{Ca^{2+}}$가 방출되어 사용된 것이지, 실제로는 어떨지 모르지 않을까?]에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다.
+A23187을 활용한 실험에서 $\mathrm{Ca^{{2+}}}$가 없는 바닷물에서 cortical reaction이 일어남을 통해 외부 calcium ion에 의존적이지 않음을 확인할 수 있다.
 #### 1.1.2 Mammal
 internal fertilization이 일어난다.
 배란 전후에 follicle cells에 둘러싸여 있다.
@@ -47,12 +47,25 @@ grey crescent는 동물극이 회전하면서 정자 침입점의 반대편에 �
 fertilization 단계에서는  transcription이 일어나지 않으며 oogenesis에서 형성된  mRNA, 단백질 등을 사용한다.
 
 cleavage 동안에는 $\mathrm{G_{1}}$, $\mathrm{G_{2}}$ phase 없이 S, M phase만 일어난다.
-따라서 세포의 무게가 증가하지 않고 fertilized egg가 blasomere로 나뉜다.
+	따라서 세포의 무게가 증가하지 않고 fertilized egg가 blasomere로 나다.
 #### 1.2.1 Cleavage Pattern in Frogs
 Zygote는 anaimal hemisphere와 vegetal hemisphere로 나뉘며 각 hemisphere의 양단에 animal pole과 vegetal pole이 있다. Yolk는 zygote의 vegetal hemisphere에 치우쳐져 있어 색으로 구분 가능하며 cleavage division의 pattern에 영향을 끼친다. cytokinesis 과정에서 3개의 cleavage furrow가 생기며 1, 2번째 furrow는 양극을 잇는 선과 평행하다. 3번째 furrow 형성 과정에서는 yolk로 인해 centrosome 등이 animal pole 쪽에 위치하여 vegetal pole 쪽의 세포가 더 크다.
 
 ![[Xenopus_cleavage.png|400]]
+
+**What Causes the End of Cleavage in a Frog Embryo?**
+cleavage cell cycle에서는 S phase와 M phase만 존재한다.
+12번째 분할 이후에 G1, G2 phase가 나타나 세포가 성장하고, 단백질 및 세포 소기관을 형성한다.
+Hypothesis: 세포 분할이 일어난 횟수를 세는 메커니즘이 cleavage의 종료를 결정한다.
+
+![[Experiment.png|300]]
+방사성 염기(티민, 유리딘)를 통해 DNA 및 RNA가 합성 되는 양을 측정한다.
+Cytochalasin B를 첨가하였을 때와 그렇지 않았을 때 같은 시간대에 난할이 끝났다.
+$\implies$ 난할 횟수는 난할의 종료와 무관하다.
+
+*Cytochalasin B: cleavage furrow 형성과 cytokinesis를 방지하여 cell division을 막는 약품*
 ## 2 Morphogenesis
+
 ### 2.1 Gastrulation
 #### 2.1.1 Frog
 sperm이 침입한 부분 반대 편의 dorsal side에서 dorsal lip이 형성되어 함입 및 세포 이동이 일어난다. frog의 anus는 blastopore로 부터 형성되며 archenteron의 반대쪽 끝이 뚫려 입이 된다.
@@ -65,26 +78,24 @@ neurulation은 dorsal mesoderm이 embyo의 dorsal side를 따라 뻗어있는 no
 notochord와 다른 조직들에서 분비된 신호 분자들이 notochore 위의 ectoderm이 neural plate를 형성하도록 한다.
 
 ![[Xenopus_Neurulation.png|400]]
-
 neural plate는 neural tube가 되며 이는 central nervous system이 된다.
 notochord는 태어나기 전에 사라지지만 vetebrae 사이의 디스크 형성에 관여한다.
 neural crest는 척추동물의 neural tube를 따라 neural fold에서 형성되고 체내로 이동하여 배아의 다양한 부분을 형성한다 (신경, 치아의 일부, 두개골 등).
 notochord 옆의 mesoderm은 somites라고 불리는 블록을 형성한다.
 somite의 일부가 해리되어 mesenchyme cell 형성하며, 이는 척추뼈와 척추와 연결된 갈비뼈 및 근육을 형성한다.
 ### 2.3 Cytoskeleton
-동물에서 세포의 일부가 이동하는 것은 세포의 형태 변화나 새로운 위치로의 이동을 가능케 하며 microtubles와 microfilaments는 이러한 과정에서 필수적이다.
+동물에서 세포의 일부가 이동하는 것은 세포의 형태 변화나 새로운 위치로의 이동을 가능케 하며 microtubules와 microfilaments는 이러한 과정에서 필수적이다.
 
 neurulation 과정에서 notochord 위의 ectoderm 내에 있는 actin filaments가 수축하여 wedge shape을 형성한다.
 
-![[Actin_filament_Neurulation.png|400]]
+![[Actin_filament_Neurulation.png|300]]
 
 cytoskeleton은 convergent extention과도 연관된다. conergent extension에서 세포들은 길고 얇은 형태로 변하고 서로의 틈에 끼어들어 더 긴 cell sheet를 형성한다.
 
 ![[Conergent_Extension.png|400]]
 
 cell adhesion molecule이라고 불리는 transmembrane glycoprotein은 세포 이동에서 중요한 역할을 한다.
-
-<font color="#ff0000">*Migration also involves the extracellular matrix (ECM), a meshwork of secreted glycoproteins and other molecules lying outside the plasma membrane of cells*</font>
+이동에는 분비된 glycoprotein과 세포질 외부에 존재하는 다른 분자들로 이루어진 ECM도 포함된다.
 #### 2.3.1 Programed Cell Death(Apoptosis)
 - 발달 중 다양한 시점에서 단일 세포, 여러 세포 또는 전체 조직이 발달을 멈추고, 죽어서 인접한 세포에 흡수된다.
 - 발달 과정에서 필요 이상의 뉴런이 생산되며 여분의 뉴런은 이후 apoptosis에 의해 제거된다.
@@ -110,5 +121,5 @@ P granules는 cytoplasmic determinants로 작용하여 초기 발생 단계에�
 ![[dorsal_lip_transplant.png|400]]
 
 Speann과 Mangold는 초기 낭배의 조직을 이식하였고 이식된 포배의 dorsal lip이 host의 2차적인 낭배 형성을 일으켰다.
-이를 통해 dorsal lip이 배아의 발달 과정에서 notochord, neural tuble 등을 형성하는 neurulation을 유도하는 organizer임을 알 수 있다.
+이를 통해 dorsal lip이 배아의 발달 과정에서 notochord, neural tube 등을 형성하는 neurulation을 유도하는 organizer임을 알 수 있다.
 albino 개체의 dorsal lip을 이식했을 때 이식된 dorsal lip 주변의 세포가 endoderm을 형성하는 것을 확인하였다.

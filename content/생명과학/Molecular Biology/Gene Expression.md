@@ -73,11 +73,11 @@ $$
 | RNA pol$\mathrm{II}$ | nucleoplasm | mRNA, snoRNA, miRNA, siRNA, IncRNA, 대부분의 snRNA |
 | RNA pol$\mathrm{III}$  | nucleoplasm | tRNA, 5s RNA, 일부 snRNA |
 #### Initiation
-| factor | function                                                                                                                 |
-| ------ |:------------------------------------------------------------------------------------------------------------------------ |
-| TBP    | DNA의 -30 region의 TATA Box에 특이적으로 결합한다.                                                                       |
-| TFIID  | promoter를 특이적으로 인식하여 RNA polymerase와 promoter간의 결합을 도와준다                                             |
-| TFIIH  | RNA pol$\mathrm{II}$의 CTD를 인산화하여 인산화된 단백질 꼬리에 RNA 가공과정에 관여하는 요소들이 결합할 수 있도록 해준다. |                                    |
+| factor | function                                                                         |
+| ------ | :------------------------------------------------------------------------------- |
+| TBP    | DNA의 -30 region의 TATA Box에 특이적으로 결합한다.                                           |
+| TFIID  | promoter를 특이적으로 인식하여 RNA polymerase와 promoter간의 결합을 도와준다                         |
+| TFIIH  | RNA pol$\mathrm{II}$의 CTD를 인산화하여 인산화된 단백질 꼬리에 RNA 가공과정에 관여하는 요소들이 결합할 수 있도록 해준다. |
 1. TFIID의 subunit인 TATA-binding protein이 TBP에 결합한다.
 2. RNA pol$\mathrm{II}$ 및 TFIIB, TFIIE, TFIIH 등의 GTFs가 결합한다.
 3. TFIIH가 RNA pol$\mathrm{II}$의 CTD를 인산화 시켜 가공 관련 효소들이 도입되고 전사를 개시한다.

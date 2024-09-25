@@ -32,5 +32,5 @@
 - [[물리학/Torque.md]]
 - [[물리학/Intermediate Axis theorem.md]]
 - [[Templates/book.md]]
-- [[Perplexity.md]]
+- [[Perplexity]]
 - [[Conditional Probability.md]]

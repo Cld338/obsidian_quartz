@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--*-indent-tabs-mode:t;tab-width:4;-*- vim:se noet ts=4:-->
+<svg version="1.1" width="1100" height="779" viewBox="0 0 1100 779"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:lang="en">
+<title>Oxalate</title>
+<style type="text/css">
+	line, polyline{
+		fill: none;
+		stroke: currentColor;
+		stroke-width: 9;
+	}
+	text{
+		fill: currentColor;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 136px;
+	}
+
+	/* Modifier classes */
+	.dashes { stroke-dasharray: 24, 25.5; }
+	.centre { text-anchor: middle; }
+	.right  { text-anchor: end; }
+	.small  { font-size: 105px; }
+</style>
+<polyline points="99,89 54.5,89 54.5,725 99,725"/>
+<polyline points="832,89 876.5,89 876.5,725 832,725"/>
+<line x1="193.5" y1="206"   x2="280"   y2="355.8"/><line class="dashes" x1="165.6" y1="221.9" x2="252.1" y2="371.7"/>
+<line x1="192.5" y1="614.7" x2="279"   y2="464.9"/><line class="dashes" x1="164.6" y1="598.8" x2="251.1" y2="449"/>
+<line x1="729"   y1="205"   x2="642.5" y2="354.8"/><line class="dashes" x1="756.8" y1="220.9" x2="670.3" y2="370.7"/>
+<line x1="729"   y1="614.7" x2="642.5" y2="464.9"/><line class="dashes" x1="756.8" y1="598.8" x2="670.3" y2="449"/>
+<line x1="367"   y1="410"   x2="552.3" y2="410"/>
+<text x="311" y="459" class="centre">C</text>
+<text x="609" y="459" class="centre">C</text>
+<text x="214" y="200" class="right">O</text>
+<text x="200" y="710" class="right">O</text>
+<text x="722" y="208">O</text>
+<text x="707" y="718">O</text>
+<text x="909" y="125" class="small">2−</text>
+</svg>

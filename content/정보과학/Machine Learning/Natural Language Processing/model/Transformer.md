@@ -7,7 +7,7 @@ Training: true
 ### 1.1 [[Encoder&Decoder]]
 #### 1.1.1 Encoder
 Encoder는 6개의 stack이 동일한 layer로 구성되어 있으며 각 layer는 2개의 sub-layer를 가진다.
-sub-layer는 [[Attention#Multi-Head Attention|Multi-Head Self-Attention]]과 [[Feed-Forward Network#Position-Wise FFN|Position-Wise FFN]]이다. 2개의 sub-layer에는 각각 [[Skip Connection]]을 도입한 뒤 [[Normalization#Layer Normalization|Layer Normalization]]하였다. 따라서 각 sub-layer의 연산은 다음과 같이 나타낼 수 있다.
+sub-layer는 [[정보과학/Machine Learning/Architecture/Attention#Multi-Head Attention|Multi-Head Self-Attention]]과 [[Feed-Forward Network#Position-Wise FFN|Position-Wise FFN]]이다. 2개의 sub-layer에는 각각 [[Skip Connection]]을 도입한 뒤 [[Normalization#Layer Normalization|Layer Normalization]]하였다. 따라서 각 sub-layer의 연산은 다음과 같이 나타낼 수 있다.
 $$
 \mathrm{LayerNorm(x+Sublayer(x))}
 $$
@@ -15,9 +15,9 @@ residual connection을 사용하기 위해서, 모델 내에 포함된 모든 su
 #### 1.1.2 Decoder
 Encoder는 6개의 stack이 동일한 layer로 구성되어 있으며 각 layer는 3개의 sub-layer를 가진다.
 2개의 sub-layer의 구성은 Encoder와 동일하며 나머지 하나의 sub-layer는 Encoder의 출력에 대해 multi-head attention을 수행한다. Encoder와 마찬가지로 각 sub-layer에 residual connection 및 layer normalization을 도입하였다.
-### 1.2. [[Attention]]
-#### 1.2.1. [[Attention#Scaled Dot-Product Attention|Scaled Dot-Product Attention]]
-#### 1.2.2. [[Attention#Multi-Head Attention|Multi-Head Attention]]
+### 1.2. [[정보과학/Machine Learning/Architecture/Attention]]
+#### 1.2.1. [[정보과학/Machine Learning/Architecture/Attention#Scaled Dot-Product Attention|Scaled Dot-Product Attention]]
+#### 1.2.2. [[정보과학/Machine Learning/Architecture/Attention#Multi-Head Attention|Multi-Head Attention]]
 #### 1.2.3. Masked Attention
 transformer의 경우 문장을 순차적으로 번역하는데 이때 학습을 병렬적으로 진행하기 위해 [[Teacher Forcing]]을 사용하기 때문에 Encoder에는 입력 문장을, Decoder에는 현재까지 번역된 문장을 제공하게 된다. 이때 Decoder에 입력된 정보는 self-attention을 거치게 되는데, 만약 추후에 사용될 Ground Truth가 포함되어 있다면 이들 또한 attention 과정에서 query를 표현하기 위한 벡터로 사용되기 때문에 학습에 문제가 생길 수 있다. 이를 해결하기 위해 아직 번역되지 않은 부분의 내적을 특정 값으로 masking하여 학습에 사용되지 않도록 한다.
 ### 1.3. [[Feed-Forward Network#Position-Wise FFN|Position-Wise Feed-Forwaed Networks]]
