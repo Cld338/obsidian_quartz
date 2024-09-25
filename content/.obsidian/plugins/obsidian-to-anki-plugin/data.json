@@ -375,7 +375,10 @@
     "ClO3-_Lewis.png",
     "ClO2-_Lewis.png",
     "Amino_Acids_Table.jpg",
-    "Pasted image 20240630162710.png"
+    "Pasted image 20240630162710.png",
+    "ELMo_Structure.png",
+    "정보과학/실습/Kernel_Support_Vector_Machine.ipynb",
+    "Adaline.py"
   ],
   "File Hashes": {
     "화학/양자화학 도입부.md": "bcad2d55e342a58d10ad00e316a009bf",
@@ -607,9 +610,23 @@
     "Anki/Biology/Cell Division, Tumor.md": "1ab2d8377e9f6873a603417961399798",
     "Anki/Biology/Amino Acids.md": "a9533bd92fbbb2038fabc0e565dfac1c",
     "Anki/English/문장 정렬.md": "cd1c062d76a7c3f51f1b36f98d6288f0",
-    "Anki/English/영어 단어장2.md": "91b4bf1bdd72c09d8ad7e9594fdbf0b6",
+    "Anki/English/영어 단어장2.md": "aab45c03d1537207c5e952eb3563d411",
     "Anki/Mathmatics/물리 질문 만들기.md": "08e3395eb5e313440df378d5d6bc684c",
-    "Anki/통합사회/암기.md": "52159b98e5e1bb70e02d060111a11e18"
+    "Anki/통합사회/암기.md": "52159b98e5e1bb70e02d060111a11e18",
+    "정보과학/Machine Learning/Natural Language Processing/model/Transformer.md": "59210fe062d3a6d19edba7b7880bb2ab",
+    "정보과학/Machine Learning/Natural Language Processing/model/Skip-Gram.md": "4fbdffd8969d46249c19f440d8fe5bd1",
+    "정보과학/Machine Learning/Natural Language Processing/model/N-Gram.md": "4fbdffd8969d46249c19f440d8fe5bd1",
+    "정보과학/Machine Learning/Natural Language Processing/model/GPT/GPT.md": "7065368870ad6561aa6b53185269d197",
+    "정보과학/Machine Learning/Natural Language Processing/model/ELMo.md": "d75c2c54954fea448f9e5bade69f9d58",
+    "정보과학/Machine Learning/Natural Language Processing/model/BERT.md": "ca972622ab3dbfe2e62b0e84157b023b",
+    "정보과학/Machine Learning/model/Support Vector Machine.md": "df959b5d7a328a0637e9f0f832517804",
+    "정보과학/Machine Learning/model/Perceptron.md": "4fbdffd8969d46249c19f440d8fe5bd1",
+    "정보과학/Machine Learning/model/Naive Bayes.md": "4fbdffd8969d46249c19f440d8fe5bd1",
+    "정보과학/Machine Learning/model/Long Short-Term Memory.md": "90d8f2d0dfa6a9000cc05c8b501b2251",
+    "정보과학/Machine Learning/model/Kernel Support Vector Machine.md": "c19f722510bf658fd6470cbf99ff6d94",
+    "정보과학/Machine Learning/model/K-Nearest Neighbor.md": "1bef6331def3d04a645dadae7f61cfaa",
+    "정보과학/Machine Learning/model/Decision Tree.md": "ac4cfd811f59d57b539f9dd6b0ecba49",
+    "정보과학/Machine Learning/model/Adaline.md": "02b67dc8a0e9beb47bef7b7eaa1f56d0"
   },
   "fields_dict": {
     "Basic": [
