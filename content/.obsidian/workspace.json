@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "006cf5837d8d38c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a83920bb1525b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0992638f2e4aadfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anki/English/영어 단어장2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a6d3cf75e31ef65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연구/공동연구/private/24 자탐/선행 연구.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fecbafee457bc27",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b04bd9331767517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09106b80c8791c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "310859531cc8c79b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "질문",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc929dc951f8cf39",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "62f68c5f20f7f2e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "51d2f1cde56b23ba",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.50312423706055
+  },
+  "right": {
+    "id": "87e197feb517cb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "751411e052474c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4472c955f880c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "연구/공동연구/private/24 자탐/선행 연구.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "443c6532671f5430",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "연구/공동연구/private/24 자탐/선행 연구.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d4f28aa776dccab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "dc2b1802ab2d0cc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "연구/공동연구/private/24 자탐/선행 연구.md"
+              }
+            }
+          },
+          {
+            "id": "fb486c71d6e189d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d058985cd43b800f",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-lm-verifier:Send to Gemini": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false,
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "gemini-assistant:New Gemini chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7a6d3cf75e31ef65",
+  "lastOpenFiles": [
+    "백준/못 푼 문제.md",
+    "백준/1708번 - 블록 껍질.md",
+    "백준/1013번 - Contact.md",
+    "Anki/English/영어 단어장2.md",
+    "Anki/English/영어 단어장.md",
+    "Anki/Biology/생물 단어장.md",
+    "Anki/Biology/Amino Acids.md",
+    "Anki/통합사회/암기.md",
+    "Anki/Mathmatics/수학 단어장.md",
+    "Anki/통합사회",
+    "wkqekksrj/index.md",
+    "Anki/English/본문 암기.md",
+    "Anki/Mathmatics/Thomas Calculus.md",
+    "Anki/Mathmatics/물리 질문 만들기.md",
+    "Anki/Mathmatics/Pasted image 20240630161256.png",
+    "Anki/Mathmatics/Pasted image 20240630162235.png",
+    "Anki/Mathmatics/Pasted image 20240630162206.png",
+    "Anki/Mathmatics/Pasted image 20240630162710.png",
+    "Anki/Physics/Halliday Fundamental 10th.md",
+    "Anki/Mathmatics/Differential.md",
+    "Anki/Physics/물리 단어장.md",
+    "Anki/English/문장 정렬.md",
+    "Anki/Mathmatics/Basis.md",
+    "Anki/English",
+    "Anki/단어장/정보 단어장.md",
+    "Anki/Biology/Cell Division, Tumor.md",
+    "화학/양자화학 도입부.md",
+    "공학용 계산기.md",
+    "Anki/Mathmatics/동율쌤.md",
+    "생명과학/Neuroscience/Morphological Change.md",
+    "생명과학/Neuroscience/Action Potential.md",
+    "생명과학/Neuroscience/Common Spatial Pattern.md",
+    "Excalidraw/Eukaryotic Cell.png",
+    "Excalidraw/images/Pasted Image 20240531081619_519.png",
+    "Excalidraw/images/Pasted Image 20240427213437_034.png",
+    "Excalidraw/images/Pasted Image 20240427213407_030.png",
+    "Excalidraw/images",
+    "Excalidraw/Pasted Image 20240427201958_972.png",
+    "Excalidraw/Pasted Image 20240426184439_823.jpg",
+    "무제 파일.canvas",
+    ".md",
+    "Anki/Chemistry/2020학년도+지스트대학+선행학습+영향평가+자체평가보고서.pdf",
+    "Anki/Physics/images/Halliday Fundamental 10th",
+    "Anki/Physics/images/Moment of Inertia",
+    "Anki/Physics/images",
+    "Anki/Physics",
+    "Anki/Mathmatics",
+    "무제 파일 1.canvas",
+    "Untitled.canvas"
+  ]
+}

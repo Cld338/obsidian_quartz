@@ -1,0 +1,35 @@
+{
+  "outputFileName": "Files/orphaned files output",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    ""
+  ],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "Files/broken links output",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "Files/"
+  ],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    ""
+  ],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "Files/files without tags",
+  "emptyFilesOutputFileName": "Files/empty files",
+  "emptyFilesDirectories": [
+    "Files/"
+  ],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": true
+}

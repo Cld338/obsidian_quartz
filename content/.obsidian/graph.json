@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#작성중  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:정보과학  ",
+      "color": {
+        "a": 1,
+        "rgb": 2929645
+      }
+    },
+    {
+      "query": "path:생명과학  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:수학  ",
+      "color": {
+        "a": 1,
+        "rgb": 14412544
+      }
+    },
+    {
+      "query": "path:화학  ",
+      "color": {
+        "a": 1,
+        "rgb": 16715743
+      }
+    },
+    {
+      "query": "path:물리학  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00088093336882,
+  "lineSizeMultiplier": 1.00088093336882,
+  "collapse-forces": false,
+  "centerStrength": 0.298775618844823,
+  "repelStrength": 1.08714399787064,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5682533897091727,
+  "close": true
+}
