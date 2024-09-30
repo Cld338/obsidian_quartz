@@ -5,7 +5,7 @@ tsconfig.tsbuildinfo
 .quartz-cache
 private/
 .replit
-obsidian/
 replit.nix
 public/*
 content/Templates
+content/.obsidian
