@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "생물 단어장",
+      "path": "Anki/Biology/생물 단어장.md"
+    },
+    {
       "basename": "영어 단어장2",
       "path": "Anki/English/영어 단어장2.md"
+    },
+    {
+      "basename": "본문 암기",
+      "path": "Anki/English/본문 암기.md"
     },
     {
       "basename": "선행 연구",
@@ -21,10 +29,6 @@
       "path": "백준/1013번 - Contact.md"
     },
     {
-      "basename": "생물 단어장",
-      "path": "Anki/Biology/생물 단어장.md"
-    },
-    {
       "basename": "영어 단어장",
       "path": "Anki/English/영어 단어장.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "수학 단어장",
       "path": "Anki/Mathmatics/수학 단어장.md"
-    },
-    {
-      "basename": "본문 암기",
-      "path": "Anki/English/본문 암기.md"
     },
     {
       "basename": "Thomas Calculus",

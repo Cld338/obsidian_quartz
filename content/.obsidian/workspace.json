@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/English/영어 단어장2.md",
+                "file": "Anki/Biology/생물 단어장.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "질문",
+                "query": "refer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/English/영어 단어장2.md",
+                "file": "Anki/Biology/생물 단어장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki/English/영어 단어장2.md",
+                "file": "Anki/Biology/생물 단어장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki/English/영어 단어장2.md"
+                "file": "Anki/Biology/생물 단어장.md"
               }
             }
           },
@@ -206,21 +207,21 @@
   },
   "active": "0992638f2e4aadfe",
   "lastOpenFiles": [
+    "Anki/English/영어 단어장2.md",
+    "Anki/Biology/생물 단어장.md",
+    "Anki/English/본문 암기.md",
     "index.md",
     "Spaces/Home",
     "Spaces",
     "백준/못 푼 문제.md",
     "백준/1708번 - 블록 껍질.md",
     "백준/1013번 - Contact.md",
-    "Anki/English/영어 단어장2.md",
     "Anki/English/영어 단어장.md",
-    "Anki/Biology/생물 단어장.md",
     "Anki/Biology/Amino Acids.md",
     "Anki/통합사회/암기.md",
     "Anki/Mathmatics/수학 단어장.md",
     "Anki/통합사회",
     "wkqekksrj/index.md",
-    "Anki/English/본문 암기.md",
     "Anki/Mathmatics/Thomas Calculus.md",
     "Anki/Mathmatics/물리 질문 만들기.md",
     "Anki/Mathmatics/Pasted image 20240630161256.png",

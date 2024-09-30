@@ -598,7 +598,7 @@
     "Anki/Mathmatics/Differential.md": "9a9305b7e2f0bf77e54bd4c2b881e913",
     "Anki/Mathmatics/Basis.md": "37da476370e96051afe07842ef5dd35e",
     "Anki/English/영어 단어장.md": "7a42176ecd9e821b2ba3aec3e93a5354",
-    "Anki/English/본문 암기.md": "2206b2e8f6ef3cd78cc17703c8c193a3",
+    "Anki/English/본문 암기.md": "d41d8cd98f00b204e9800998ecf8427e",
     "Anki/Chemistry/화합물&작용기.md": "9820d262c2fcf898c98cc9d1aafc07f2",
     "Anki/Chemistry/화학 단어장.md": "61e851302bc11a3801f689a3b90af5e7",
     "Anki/Chemistry/주기율표.md": "fa7913282a72f8b98754d6aa2ca4b48c",
@@ -606,11 +606,11 @@
     "Anki/Chemistry/배위화합물 명명.md": "3707d62e45a2d0b3427e19342fb91397",
     "Anki/Chemistry/Oxtoby 7th.md": "c88764fad0f22865274478dbc86e5697",
     "Anki/Chemistry/루이스 구조&입체 수.md": "62d344c76bebd0f88ca0ec8194a3f8c4",
-    "Anki/Biology/생물 단어장.md": "3a49623f785797e5b57e5c40bc7c4082",
+    "Anki/Biology/생물 단어장.md": "ea0b5a76f9f3cf461b2a9e5ae569f4f0",
     "Anki/Biology/Cell Division, Tumor.md": "1ab2d8377e9f6873a603417961399798",
     "Anki/Biology/Amino Acids.md": "a9533bd92fbbb2038fabc0e565dfac1c",
     "Anki/English/문장 정렬.md": "cd1c062d76a7c3f51f1b36f98d6288f0",
-    "Anki/English/영어 단어장2.md": "aab45c03d1537207c5e952eb3563d411",
+    "Anki/English/영어 단어장2.md": "a2019787ac78a59374029cc017b55daf",
     "Anki/Mathmatics/물리 질문 만들기.md": "08e3395eb5e313440df378d5d6bc684c",
     "Anki/통합사회/암기.md": "52159b98e5e1bb70e02d060111a11e18",
     "정보과학/Machine Learning/Natural Language Processing/model/Transformer.md": "59210fe062d3a6d19edba7b7880bb2ab",
@@ -626,7 +626,8 @@
     "정보과학/Machine Learning/model/Kernel Support Vector Machine.md": "c19f722510bf658fd6470cbf99ff6d94",
     "정보과학/Machine Learning/model/K-Nearest Neighbor.md": "1bef6331def3d04a645dadae7f61cfaa",
     "정보과학/Machine Learning/model/Decision Tree.md": "ac4cfd811f59d57b539f9dd6b0ecba49",
-    "정보과학/Machine Learning/model/Adaline.md": "02b67dc8a0e9beb47bef7b7eaa1f56d0"
+    "정보과학/Machine Learning/model/Adaline.md": "02b67dc8a0e9beb47bef7b7eaa1f56d0",
+    "index.md": "85e0070dda287902e6e49552c5e919e8"
   },
   "fields_dict": {
     "Basic": [
