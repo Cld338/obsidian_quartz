@@ -8,4 +8,4 @@ private/
 replit.nix
 public/*
 content/Templates
-content/.obsidian
+content/.obsidian/
