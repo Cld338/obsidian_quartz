@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
       links: {
         "Github" : "https://github.com/cld338/",
         "Tistory": "https://cloudier.tistory.com/",
+        "Notion": "https://cloudier338.notion.site/Cld338-112fc609de738098960fe070ee87b610?pvs=74"
       },
     })
 }
