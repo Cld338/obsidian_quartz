@@ -2,7 +2,7 @@ common spatial pattern은 2-class EEG 신호의 특징 벡터를 추출하기 �
 $$
 \mathrm{C=\frac{X^T X}{tr(X^T X)}}
 $$
-여기서 tr()은 대각 성분들의 합을 의미하므로 $\mathrm{X^T X}$의  대각 성분은 각 행에서 원소의 제곱 합이다. 이제 [[Whitening Transform]]을 하기 위해 전체 클래스의 mean covariance matrix들의 합을 syntetic이라고 정의한다.
+여기서 tr은 대각 성분들의 합을 의미하므로 $\mathrm{X^T X}$의  대각 성분은 각 행에서 원소의 제곱 합이다. 이제 [[Whitening Transform]]을 하기 위해 전체 클래스의 mean covariance matrix들의 합을 syntetic이라고 정의한다.
 $$
 \mathrm{C_{total}=\bar{C_{1}}+\bar{C_{2}}}
 $$

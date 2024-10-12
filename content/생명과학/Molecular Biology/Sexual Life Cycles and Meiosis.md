@@ -34,7 +34,7 @@ diploid organism은 sporophyte라고 부르며 meiosis를 통해 haploid spore�
 sprore는 mitosis를 통해 gametophyte라고 불리는 haploid organism으로 성장한다.
 gametophyte는 다시 mitosis를 통해 haploid gamete를 생성하고 gametes 간의 수정을 통해 diploid sporophyte를 형성한다.
 
-![[Plants_Sexual_Life_Cycle.png|200]]
+![[Plants_Sexual_Life_Cycle.png|200]]7
 ##### 1.2.3.3 Fungi
 대부분의 fungi와 일부 prosist에서는 multicellular diploid stage가 없으며 유일한 diploid stage는 single celled zygote이다.
 zygote는 meiosis를 통해 haploid cell을 생성한다.

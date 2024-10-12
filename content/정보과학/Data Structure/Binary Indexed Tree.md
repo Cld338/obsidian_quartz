@@ -57,3 +57,7 @@ T[k+dk+dk+dk]=T[k+dk+dk+dk]+d
 $$
 ## 4. 코드
 ![[Binary_Indexed_Tree.py]]
+
+
+
+

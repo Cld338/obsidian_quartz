@@ -19,3 +19,4 @@ $$
 ### L2 Regularization
 ## References
  [1] Müller, Rafael, Simon Kornblith, and Geoffrey E. Hinton. "When does label smoothing help?." _Advances in neural information processing systems_ 32 (2019).([link](https://arxiv.org/abs/1906.02629))
+ 

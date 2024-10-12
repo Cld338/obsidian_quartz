@@ -13,7 +13,7 @@
 - [[정보과학/Machine Learning/Natural Language Processing/CoVe.md]]
 - [[정보과학/Machine Learning/Model/Perceptron.md]]
 - [[정보과학/Machine Learning/Model/Naive Bayes.md]]
-- [[정보과학/Machine Learning/Learning Strategy/Early Stopping.md]]
+- [[Early Stopping]]
 - [[정보과학/Machine Learning/Computer Vision/model/GoogLeNet.md]]
 - [[정보과학/Machine Learning/Computer Vision/Data Augmentation.md]]
 - [[정보과학/Machine Learning/Architecture/Fully Connected Layer.md]]

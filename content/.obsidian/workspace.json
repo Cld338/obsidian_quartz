@@ -4,28 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a83920bb1525b71",
+        "id": "cb4d16a72312a21f",
         "type": "tabs",
         "children": [
           {
-            "id": "0992638f2e4aadfe",
+            "id": "b28d8446e76328ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/Biology/생물 단어장.md",
+                "file": "공학용 계산기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7a6d3cf75e31ef65",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-chat-view",
-              "state": {}
             }
           }
         ]
@@ -57,12 +49,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refer",
+                "query": "statement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -83,7 +75,7 @@
             }
           },
           {
-            "id": "51d2f1cde56b23ba",
+            "id": "d074422bf82e3458",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -91,19 +83,18 @@
             }
           },
           {
-            "id": "37f5e244a8d4d784",
+            "id": "c4712d5494cca641",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.50312423706055
+    "width": 249.5
   },
   "right": {
     "id": "87e197feb517cb30",
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/Biology/생물 단어장.md",
+                "file": "공학용 계산기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki/Biology/생물 단어장.md",
+                "file": "공학용 계산기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki/Biology/생물 단어장.md"
+                "file": "공학용 계산기.md"
               }
             }
           },
@@ -181,17 +172,34 @@
                 "activeGranularity": 0
               }
             }
+          },
+          {
+            "id": "0bca7d55135bff7e",
+            "type": "leaf",
+            "state": {
+              "type": "snapshot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "adaeb96fd7f36988",
+            "type": "leaf",
+            "state": {
+              "type": "Chat via Vault",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 685.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "chat-via-vault:Chat via Vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,59 +209,58 @@
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "gemini-assistant:New Gemini chat": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0992638f2e4aadfe",
+  "active": "b28d8446e76328ce",
   "lastOpenFiles": [
     "Anki/English/영어 단어장2.md",
-    "Anki/Biology/생물 단어장.md",
-    "Anki/English/본문 암기.md",
-    "index.md",
-    "Spaces/Home",
-    "Spaces",
-    "백준/못 푼 문제.md",
-    "백준/1708번 - 블록 껍질.md",
-    "백준/1013번 - Contact.md",
     "Anki/English/영어 단어장.md",
-    "Anki/Biology/Amino Acids.md",
-    "Anki/통합사회/암기.md",
-    "Anki/Mathmatics/수학 단어장.md",
-    "Anki/통합사회",
-    "wkqekksrj/index.md",
-    "Anki/Mathmatics/Thomas Calculus.md",
-    "Anki/Mathmatics/물리 질문 만들기.md",
+    "정보과학/Programing Language/Expression, Statement.md",
+    "Anki/Informatics",
+    "index.md",
+    "images/banner_erased.png",
+    "정보과학/Machine Learning/Auto Differentiation.md",
+    "정보과학/Machine Learning/K-means Clustering.md",
+    "정보과학/Machine Learning/Curse of Dimentionality.md",
+    "정보과학/Machine Learning/Theory/Universal Approximation Theorem.md",
+    "정보과학/Machine Learning/Theory",
+    "정보과학/Machine Learning/Architecture/Fully Connected Layer.md",
+    "Files/files without tags.md",
+    "정보과학/Data Structure/Segment Tree.md",
+    "정보과학/Data Structure/Untitled.md",
+    "정보과학/Data Structure/k-d Tree.md",
+    "정보과학/Data Structure/Binary Indexed Tree.md",
+    "정보과학/Network/Protocol/OSI Model.md",
+    "생명과학/Molecular Biology/Gene Expression.md",
+    "정보과학/Programing Language/Compiler.md",
+    "정보과학/Programing Language/Evalutation.md",
+    "정보과학/Machine Learning/Method/Kernel Method.md",
+    "정보과학/Sliding Window.md",
+    "정보과학/Machine Learning/Pre-Processing/Whitening Transform.md",
+    "생명과학/Neuroscience/Common Spatial Pattern.md",
+    "정보과학/Programing Language",
+    "프로그램/Obsidian/Snapshot Plugin/TODO.md",
+    "프로그램/Obsidian/IUPAC to SMILES/IUPAC to SMILES.md",
+    "프로그램/Obsidian/플러그인 제작.md",
+    "프로그램/Obsidian/Chat via Vault/TODO.md",
+    "연구/공동연구",
+    "정보과학/Machine Learning/ASDF/Untitled",
+    "정보과학/Machine Learning/Learning Strategy/ㅁㄴㅇㄹ",
+    "프로그램/Obsidian/Snapshot Plugin",
+    "프로그램/Obsidian/IUPAC to SMILES",
+    "프로그램/Obsidian/Chat via Vault",
+    "Snapshots/index",
+    "wkqekksrj/레이디얼 저널.png",
     "Anki/Mathmatics/Pasted image 20240630161256.png",
     "Anki/Mathmatics/Pasted image 20240630162235.png",
     "Anki/Mathmatics/Pasted image 20240630162206.png",
     "Anki/Mathmatics/Pasted image 20240630162710.png",
-    "Anki/Physics/Halliday Fundamental 10th.md",
-    "Anki/Mathmatics/Differential.md",
-    "Anki/Physics/물리 단어장.md",
-    "Anki/English/문장 정렬.md",
-    "Anki/Mathmatics/Basis.md",
-    "Anki/English",
-    "Anki/단어장/정보 단어장.md",
-    "Anki/Biology/Cell Division, Tumor.md",
-    "화학/양자화학 도입부.md",
-    "공학용 계산기.md",
-    "Anki/Mathmatics/동율쌤.md",
-    "생명과학/Neuroscience/Morphological Change.md",
-    "생명과학/Neuroscience/Action Potential.md",
     "Excalidraw/Eukaryotic Cell.png",
     "Excalidraw/images/Pasted Image 20240531081619_519.png",
     "Excalidraw/images/Pasted Image 20240427213437_034.png",
     "Excalidraw/images/Pasted Image 20240427213407_030.png",
-    "Excalidraw/images",
-    "Excalidraw/Pasted Image 20240427201958_972.png",
-    "Excalidraw/Pasted Image 20240426184439_823.jpg",
     "무제 파일.canvas",
-    ".md",
-    "Anki/Chemistry/2020학년도+지스트대학+선행학습+영향평가+자체평가보고서.pdf",
-    "Anki/Physics/images/Halliday Fundamental 10th",
-    "Anki/Physics/images/Moment of Inertia",
-    "Anki/Physics/images",
     "무제 파일 1.canvas",
     "Untitled.canvas"
   ]

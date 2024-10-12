@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "생물 단어장",
-      "path": "Anki/Biology/생물 단어장.md"
+      "basename": "공학용 계산기",
+      "path": "공학용 계산기.md"
     },
     {
       "basename": "영어 단어장2",
       "path": "Anki/English/영어 단어장2.md"
     },
     {
-      "basename": "본문 암기",
-      "path": "Anki/English/본문 암기.md"
-    },
-    {
-      "basename": "선행 연구",
-      "path": "연구/공동연구/private/24 자탐/선행 연구.md"
-    },
-    {
-      "basename": "못 푼 문제",
-      "path": "백준/못 푼 문제.md"
-    },
-    {
-      "basename": "1708번 - 블록 껍질",
-      "path": "백준/1708번 - 블록 껍질.md"
-    },
-    {
-      "basename": "1013번 - Contact",
-      "path": "백준/1013번 - Contact.md"
-    },
-    {
       "basename": "영어 단어장",
       "path": "Anki/English/영어 단어장.md"
     },
     {
-      "basename": "Amino Acids",
-      "path": "Anki/Biology/Amino Acids.md"
+      "basename": "Expression, Statement",
+      "path": "정보과학/Programing Language/Expression, Statement.md"
     },
     {
-      "basename": "암기",
-      "path": "Anki/통합사회/암기.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
-      "basename": "수학 단어장",
-      "path": "Anki/Mathmatics/수학 단어장.md"
+      "basename": "banner_erased",
+      "path": "images/banner_erased.png"
     },
     {
-      "basename": "Thomas Calculus",
-      "path": "Anki/Mathmatics/Thomas Calculus.md"
+      "basename": "Auto Differentiation",
+      "path": "정보과학/Machine Learning/Auto Differentiation.md"
     },
     {
-      "basename": "물리 질문 만들기",
-      "path": "Anki/Mathmatics/물리 질문 만들기.md"
+      "basename": "K-means Clustering",
+      "path": "정보과학/Machine Learning/K-means Clustering.md"
     },
     {
-      "basename": "Pasted image 20240630161256",
-      "path": "Anki/Mathmatics/Pasted image 20240630161256.png"
+      "basename": "Curse of Dimentionality",
+      "path": "정보과학/Machine Learning/Curse of Dimentionality.md"
     },
     {
-      "basename": "Pasted image 20240630162235",
-      "path": "Anki/Mathmatics/Pasted image 20240630162235.png"
+      "basename": "Universal Approximation Theorem",
+      "path": "정보과학/Machine Learning/Theory/Universal Approximation Theorem.md"
     },
     {
-      "basename": "Pasted image 20240630162206",
-      "path": "Anki/Mathmatics/Pasted image 20240630162206.png"
+      "basename": "Fully Connected Layer",
+      "path": "정보과학/Machine Learning/Architecture/Fully Connected Layer.md"
     },
     {
-      "basename": "Pasted image 20240630162710",
-      "path": "Anki/Mathmatics/Pasted image 20240630162710.png"
+      "basename": "files without tags",
+      "path": "Files/files without tags.md"
     },
     {
-      "basename": "Halliday Fundamental 10th",
-      "path": "Anki/Physics/Halliday Fundamental 10th.md"
+      "basename": "Segment Tree",
+      "path": "정보과학/Data Structure/Segment Tree.md"
     },
     {
-      "basename": "Differential",
-      "path": "Anki/Mathmatics/Differential.md"
+      "basename": "Untitled",
+      "path": "정보과학/Data Structure/Untitled.md"
     },
     {
-      "basename": "물리 단어장",
-      "path": "Anki/Physics/물리 단어장.md"
+      "basename": "k-d Tree",
+      "path": "정보과학/Data Structure/k-d Tree.md"
     },
     {
-      "basename": "Basis",
-      "path": "Anki/Mathmatics/Basis.md"
+      "basename": "Binary Indexed Tree",
+      "path": "정보과학/Data Structure/Binary Indexed Tree.md"
     },
     {
-      "basename": "정보 단어장",
-      "path": "Anki/단어장/정보 단어장.md"
-    },
-    {
-      "basename": "Cell Division, Tumor",
-      "path": "Anki/Biology/Cell Division, Tumor.md"
-    },
-    {
-      "basename": "양자화학 도입부",
-      "path": "화학/양자화학 도입부.md"
-    },
-    {
-      "basename": "공학용 계산기",
-      "path": "공학용 계산기.md"
-    },
-    {
-      "basename": "동율쌤",
-      "path": "Anki/Mathmatics/동율쌤.md"
-    },
-    {
-      "basename": "Morphological Change",
-      "path": "생명과학/Neuroscience/Morphological Change.md"
-    },
-    {
-      "basename": "Action Potential",
-      "path": "생명과학/Neuroscience/Action Potential.md"
-    },
-    {
-      "basename": "Common Spatial Pattern",
-      "path": "생명과학/Neuroscience/Common Spatial Pattern.md"
-    },
-    {
-      "basename": "Lateral Inhibition",
-      "path": "생명과학/Neuroscience/Lateral Inhibition.md"
-    },
-    {
-      "basename": "Long Term Potentiation",
-      "path": "생명과학/Neuroscience/Long Term Potentiation.md"
-    },
-    {
-      "basename": "Nucleus",
-      "path": "생명과학/Neuroscience/Nucleus.md"
-    },
-    {
-      "basename": "Regulation of Transcription Initiation",
-      "path": "생명과학/Molecular Biology/Regulation of Transcription Initiation.md"
-    },
-    {
-      "basename": "CRISPR-Cas9",
-      "path": "생명과학/Molecular Biology/CRISPR-Cas9.md"
-    },
-    {
-      "basename": "Cell Cycle",
-      "path": "생명과학/Molecular Biology/Cell Cycle.md"
+      "basename": "OSI Model",
+      "path": "정보과학/Network/Protocol/OSI Model.md"
     },
     {
       "basename": "Gene Expression",
       "path": "생명과학/Molecular Biology/Gene Expression.md"
     },
     {
-      "basename": "tRNA",
-      "path": "생명과학/Molecular Biology/tRNA.md"
+      "basename": "Compiler",
+      "path": "정보과학/Programing Language/Compiler.md"
     },
     {
-      "basename": "Regulation of Gene Expression",
-      "path": "생명과학/Molecular Biology/Regulation of Gene Expression.md"
+      "basename": "Evalutation",
+      "path": "정보과학/Programing Language/Evalutation.md"
     },
     {
-      "basename": "Sexual Life Cycles and Meiosis",
-      "path": "생명과학/Molecular Biology/Sexual Life Cycles and Meiosis.md"
+      "basename": "Kernel Method",
+      "path": "정보과학/Machine Learning/Method/Kernel Method.md"
     },
     {
-      "basename": "Post-Transcriptional Modification",
-      "path": "생명과학/Molecular Biology/Post-Transcriptional Modification.md"
+      "basename": "Sliding Window",
+      "path": "정보과학/Sliding Window.md"
     },
     {
-      "basename": "Drawing 2024-06-17 22.56.00.excalidraw",
-      "path": "Excalidraw/Drawing 2024-06-17 22.56.00.excalidraw.md"
+      "basename": "Whitening Transform",
+      "path": "정보과학/Machine Learning/Pre-Processing/Whitening Transform.md"
     },
     {
-      "basename": "Eukaryotic Cell",
-      "path": "Excalidraw/Eukaryotic Cell.md"
+      "basename": "Common Spatial Pattern",
+      "path": "생명과학/Neuroscience/Common Spatial Pattern.md"
     },
     {
-      "basename": "Plant Cell",
-      "path": "Excalidraw/Plant Cell.md"
+      "basename": "TODO",
+      "path": "프로그램/Obsidian/Snapshot Plugin/TODO.md"
     },
     {
-      "basename": "Eukaryotic Cell",
-      "path": "Excalidraw/Eukaryotic Cell.png"
+      "basename": "IUPAC to SMILES",
+      "path": "프로그램/Obsidian/IUPAC to SMILES/IUPAC to SMILES.md"
     },
     {
-      "basename": "GPCR",
-      "path": "Excalidraw/GPCR.md"
+      "basename": "플러그인 제작",
+      "path": "프로그램/Obsidian/플러그인 제작.md"
     },
     {
-      "basename": "Pasted Image 20240531081619_519",
-      "path": "Excalidraw/images/Pasted Image 20240531081619_519.png"
+      "basename": "TODO",
+      "path": "프로그램/Obsidian/Chat via Vault/TODO.md"
     },
     {
-      "basename": "Pasted Image 20240427213437_034",
-      "path": "Excalidraw/images/Pasted Image 20240427213437_034.png"
+      "basename": "Ensemble",
+      "path": "정보과학/Machine Learning/Learning Strategy/Ensemble.md"
     },
     {
-      "basename": "Pasted Image 20240427213407_030",
-      "path": "Excalidraw/images/Pasted Image 20240427213407_030.png"
+      "basename": "Early Stopping",
+      "path": "정보과학/Machine Learning/Learning Strategy/Early Stopping.md"
     },
     {
-      "basename": "Oxtoby 7th",
-      "path": "Anki/Chemistry/Oxtoby 7th.md"
+      "basename": "Normalization",
+      "path": "정보과학/Machine Learning/Learning Strategy/Normalization.md"
+    },
+    {
+      "basename": "Skip Connection",
+      "path": "정보과학/Machine Learning/Architecture/Skip Connection.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "정보과학/Machine Learning/Learning Strategy/Regularization.md"
+    },
+    {
+      "basename": "Teacher Forcing",
+      "path": "정보과학/Machine Learning/Learning Strategy/Teacher Forcing.md"
+    },
+    {
+      "basename": "t-distributed Stochastic Neighbor Embedding",
+      "path": "정보과학/Dimension Reduction/t-distributed Stochastic Neighbor Embedding.md"
+    },
+    {
+      "basename": "Optimizer",
+      "path": "정보과학/Machine Learning/Learning Strategy/Optimizer.md"
+    },
+    {
+      "basename": "Hard Negative Mining",
+      "path": "정보과학/Machine Learning/Learning Strategy/Hard Negative Mining.md"
+    },
+    {
+      "basename": "양자화학 도입부",
+      "path": "화학/양자화학 도입부.md"
+    },
+    {
+      "basename": "Batch",
+      "path": "정보과학/Machine Learning/Learning Strategy/Batch.md"
+    },
+    {
+      "basename": "Arc Browser",
+      "path": "프로그램/Arc Browser.md"
+    },
+    {
+      "basename": "LM Verifier",
+      "path": "프로그램/Obsidian/LM Verifier.md"
+    },
+    {
+      "basename": "화학식 렌더딩",
+      "path": "프로그램/Obsidian/화학식 렌더딩.md"
+    },
+    {
+      "basename": "Kalman Filter",
+      "path": "정보과학/Algorithm/Kalman Filter.md"
+    },
+    {
+      "basename": "단열선도(열역학선도)",
+      "path": "지구과학/단열선도(열역학선도).md"
+    },
+    {
+      "basename": "Sliding Window",
+      "path": "정보과학/Algorithm/Sliding Window.md"
+    },
+    {
+      "basename": "Search Algorithmn",
+      "path": "정보과학/Algorithm/Search Algorithmn.md"
+    },
+    {
+      "basename": "Dynamic Time Warping",
+      "path": "정보과학/Algorithm/Dynamic Time Warping.md"
+    },
+    {
+      "basename": "못 푼 문제",
+      "path": "백준/못 푼 문제.md"
+    },
+    {
+      "basename": "Mendelian Genetics",
+      "path": "생명과학/Genetics/Mendelian Genetics.md"
+    },
+    {
+      "basename": "표기법",
+      "path": "생명과학/표기법.md"
     }
   ],
   "omittedPaths": [],

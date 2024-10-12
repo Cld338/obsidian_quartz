@@ -5,7 +5,7 @@
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
-  "makeMenuPlaceholder": true,
+  "makeMenuPlaceholder": false,
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
@@ -38,7 +38,7 @@
     "/"
   ],
   "expandFolderOnClick": true,
-  "menuTriggerChar": "/",
+  "menuTriggerChar": "\\",
   "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
@@ -48,7 +48,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

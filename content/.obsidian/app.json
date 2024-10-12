@@ -1,17 +1,6 @@
 {
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 90
-  },
   "alwaysUpdateLinks": true,
-  "trashOption": "local",
-  "userIgnoreFilters": [
-    "Files/"
-  ],
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./",
-  "useMarkdownLinks": true
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false
 }
